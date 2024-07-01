@@ -14,7 +14,7 @@ This project showcases a variety of examples built while teaching features avail
 |**Unity Demos**|
 |:-:|
 |LightSaber_MixedReality.unity scene|
-|<img src="https://github.com/dilmerv/MetaXRSimulatorDemos_FullProject/blob/master/docs/images/LightSaber_MixedReality.gif" width="560">|
+|<img src="https://github.com/dilmerv/MetaXRSimulatorDemos_FullProject/blob/master/docs/images/LightSaber_Mixed_Reality.gif" width="560">|
 |LightSaber.unity scene|
 |<img src="https://github.com/dilmerv/MetaXRSimulatorDemos_FullProject/blob/master/docs/images/LightSaber_Virtual_Reality.gif" width="560">|
 
