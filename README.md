@@ -1,7 +1,7 @@
 # Meta XR Simulator Demos (FULL PROJECT)
 This project showcases a variety of examples built while teaching features available with the [Meta XR Simulator](https://assetstore.unity.com/packages/tools/integration/meta-xr-simulator-266732?aid=1101l7LXo).
 
-🎬 _Watch [this video]([https://youtu.be/QHMtVEX9O0Y](https://youtu.be/z2aNum4aHXs) for a step by step on integrating a LightSaber Mixed Reality & Virtual Reality 🕹️ Prototype._
+🎬 _Watch [this video](https://youtu.be/z2aNum4aHXs) for a step by step on integrating a LightSaber Mixed Reality & Virtual Reality 🕹️ Prototype._
   
 ## Requirements
 - Unity 2022 LTS
